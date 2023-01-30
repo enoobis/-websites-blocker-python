@@ -2,7 +2,7 @@ import time
 from datetime import datetime as dt
 
 # list of websites to block
-websites_to_block = ["www.facebook.com", "www.twitter.com" , "www.instagram.com" , "www.tiktok.com"]
+websites_to_block = ["chat.openai.com"]
 
 # host file location (for Windows it is C:\Windows\System32\drivers\etc\hosts)
 hosts_file = "C:\Windows\System32\drivers\etc\hosts"
